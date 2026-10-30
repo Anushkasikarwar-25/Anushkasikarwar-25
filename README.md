@@ -16,10 +16,10 @@
 
 - 🎓 Currently pursuing BCA.
 - 📚 Final Year (3rd Year)
-- 🌱 Learning Frontend Web Development.
-- 🚀 Interested in Web Development & Artificial Intelligence
+- 🚀 Interested in Web Development & Artificial Intelligence.
 - 🎯 Working towards becoming a skilled developer.
 - 📊 Exploring Excel and Data Analytics.
+- 🚀 Passionate about learning, building projects and improving my coding skills.
 
 ---
 
